@@ -26,6 +26,6 @@
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/yg/`**`a582ad10a45dc17815feea6018223880`**.
    - **CONSIDER_PRIVATE:** Boolean value, If true it will count private repos too.
 
-## License. 
+## License 
 
 MIT © [Yogi](LICENSE) 
